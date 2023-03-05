@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ryotess
 - 👀 I’m interested in Film Photography, Guitar and Good eating.
-- 🌱 I’m currently learning Python, R and SQL for Data Science.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Email- jess880831@gmail.com
+- 🌱 I’m currently devoting in Data Science field with Python, R and SQL.
+- 📫 How to reach me: Email- 110354012@g.nccu.edu.tw
 
 <!---
 Ryotess/Ryotess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
