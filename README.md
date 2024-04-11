@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Ryotess
-- 👀 I’m interested in Film Photography, Guitar and Good eating.
-- 🌱 I’m currently devoting in Data Science field with Python, R and SQL.
-- 📫 How to contact me: Email- jessforwork2023@gmail.com
+- Ryotess
+- Taipei, Taiwan
+- Machine Learning Engineer/Data Scientist
+- Python/SQL/R/GCP/Azure/Linux
+- Photography/Guitar/Bodybuilding
+- Contact Me: jessforwork2023@gmail.com
 
 <!---
 Ryotess/Ryotess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
