@@ -1,9 +1,9 @@
-- Ryotess
-- Taipei, Taiwan
-- Machine Learning Engineer/Data Scientist
-- Python/SQL/R/GCP/Azure/Linux
-- Photography/Guitar/Bodybuilding
-- Contact Me: jessforwork2023@gmail.com
+Hi I'm Ryotess @Taipei, Taiwan
+- EDU: NCCU STAT (MS) | NTUE MIE(BS)
+- TITLE: Machine Learning Engineer/Data Scientist
+- STACK: Python/SQL/R/GCP/Azure/Linux
+- HOBBY: Photography/Guitar/Bodybuilding
+- CONTACT: jessforwork2023@gmail.com
 
 <!---
 Ryotess/Ryotess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
