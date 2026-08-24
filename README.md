@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/terminal-banner.svg" width="100%" alt="Ryotess — Machine Learning Engineer and Applied AI Engineer in Taipei, Taiwan" />
+  <img src="./assets/terminal-banner.svg?v=2" width="100%" alt="Ryotess — Machine Learning Engineer and Applied AI Engineer in Taipei, Taiwan" />
 </p>
 
 <p align="center">
