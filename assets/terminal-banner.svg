@@ -70,17 +70,17 @@
     <text x="600" y="53" text-anchor="middle" class="mono" font-size="13" letter-spacing="3" fill="#688f7d">RYOTESS_OS // CRT-01</text>
 
     <g transform="translate(58 102)">
-      <text class="mono" font-size="17" letter-spacing="2" fill="#ffb000">&gt; BOOT SEQUENCE COMPLETE</text>
-      <circle cx="318" cy="-6" r="5" fill="#00f5a0" class="pulse" filter="url(#hardGlow)" />
+      <text class="mono" font-size="17" letter-spacing="2" fill="#ffb000">&gt; PRODUCTION SYSTEMS ONLINE</text>
+      <circle cx="359" cy="-6" r="5" fill="#00f5a0" class="pulse" filter="url(#hardGlow)" />
 
       <text y="79" class="mono" font-size="62" font-weight="700" letter-spacing="7" fill="#00f5a0" opacity="0.52" filter="url(#softGlow)">RYOTESS</text>
       <text y="79" class="mono" font-size="62" font-weight="700" letter-spacing="7" fill="#00f5a0">RYOTESS</text>
-      <text y="116" class="mono" font-size="20" letter-spacing="3.4" fill="#c6ffdf">AI/ML ENGINEER + DATA SCIENTIST</text>
+      <text y="116" class="mono" font-size="18" letter-spacing="2.7" fill="#c6ffdf">MACHINE LEARNING ENGINEER // APPLIED AI</text>
 
       <path d="M0 142H670" stroke="#00f5a0" stroke-opacity="0.34" />
-      <text y="174" class="mono" font-size="15" letter-spacing="2" fill="#82aa96">TAIPEI, TAIWAN // BUILDING RELIABLE INTELLIGENT SYSTEMS</text>
-      <text x="0" y="205" class="mono" font-size="17" fill="#ffb000">$ initiate --next-project</text>
-      <rect x="263" y="188" width="12" height="21" fill="#ffb000" class="blink" filter="url(#hardGlow)" />
+      <text y="174" class="mono" font-size="13" letter-spacing="1.8" fill="#82aa96">TAIPEI // PRODUCTION LLM AGENTS // SEARCH // RECOMMENDERS</text>
+      <text x="0" y="205" class="mono" font-size="17" fill="#ffb000">$ deploy --production-ai</text>
+      <rect x="253" y="188" width="12" height="21" fill="#ffb000" class="blink" filter="url(#hardGlow)" />
     </g>
 
     <g transform="translate(942 122)" opacity="0.9">
