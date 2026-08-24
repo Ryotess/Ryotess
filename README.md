@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/editorial-hero.svg" width="100%" alt="Jess Chen — Machine Learning Engineer and Applied AI Engineer building useful AI in Taipei" />
+  <img src="./assets/editorial-hero-v2.svg" width="100%" alt="Jess Chen — Machine Learning Engineer and Applied AI Engineer building production AI systems in Taipei" />
 </p>
 
 <p align="center">

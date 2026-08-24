@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
-  <title id="title">Jess Chen — building useful AI</title>
+  <title id="title">Jess Chen — AI systems built to ship</title>
   <desc id="desc">A mid-century editorial poster introducing Jess Chen, also known as Ryotess, as a machine learning and applied AI engineer in Taipei.</desc>
 
   <defs>
@@ -34,8 +34,8 @@
 
   <!-- editorial headline -->
   <text x="58" y="137" class="mono" font-size="13" font-weight="700" letter-spacing="2.4" fill="#216d67">JESS CHEN / RYOTESS</text>
-  <text x="54" y="230" class="sans" font-size="88" font-weight="800" letter-spacing="-3" fill="#1a2521">BUILDING</text>
-  <text x="54" y="310" class="serif" font-size="82" font-weight="700" font-style="italic" letter-spacing="-2" fill="#c4472d">useful AI.</text>
+  <text x="54" y="230" class="sans" font-size="82" font-weight="800" letter-spacing="-3" fill="#1a2521">AI SYSTEMS</text>
+  <text x="54" y="310" class="serif" font-size="70" font-weight="700" font-style="italic" letter-spacing="-2" fill="#c4472d">built to ship.</text>
   <line x1="58" y1="338" x2="711" y2="338" stroke="#1a2521" stroke-width="2" />
   <text x="58" y="373" class="sans" font-size="17" font-weight="700" letter-spacing="1.8" fill="#1a2521">MACHINE LEARNING ENGINEER / APPLIED AI</text>
   <text x="58" y="405" class="mono" font-size="13" letter-spacing="1.7" fill="#66695f">PRODUCTION LLM AGENTS · SEARCH · RECOMMENDER SYSTEMS</text>
