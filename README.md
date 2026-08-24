@@ -3,7 +3,7 @@ Hi I'm Ryotess @Taipei, Taiwan
 - TITLE: AI/ML Engineer/Data Scientist
 - STACK: Python/SQL/R/GCP/Azure/Linux
 - HOBBY: Photography/Guitar/Bodybuilding
-- CONTACT: jess880831@gmail.com
+- CONTACT: jessforwork2023@gmail.com
 
 <!---
 Ryotess/Ryotess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
