@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Jess Chen — building useful AI</title>
+  <desc id="desc">A mid-century editorial poster introducing Jess Chen, also known as Ryotess, as a machine learning and applied AI engineer in Taipei.</desc>
+
+  <defs>
+    <pattern id="fine-grid" width="18" height="18" patternUnits="userSpaceOnUse">
+      <path d="M18 0H0V18" fill="none" stroke="#efe4cf" stroke-width="1" opacity="0.22" />
+    </pattern>
+    <pattern id="half-tone" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1.6" fill="#1a2521" opacity="0.3" />
+    </pattern>
+    <filter id="paper" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="3" seed="14" result="noise" />
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0.18  0 0 0 0 0.16  0 0 0 0 0.12  0 0 0 0.18 0" />
+    </filter>
+    <clipPath id="teal-disc">
+      <circle cx="982" cy="247" r="112" />
+    </clipPath>
+    <style>
+      .sans { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .serif { font-family: Georgia, "Times New Roman", serif; }
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    </style>
+  </defs>
+
+  <!-- warm paper field -->
+  <rect width="1200" height="460" fill="#efe4cf" />
+  <rect x="16" y="16" width="1168" height="428" fill="none" stroke="#1a2521" stroke-width="2" />
+
+  <!-- masthead -->
+  <rect x="28" y="28" width="1144" height="64" fill="#1a2521" />
+  <text x="52" y="67" class="sans" font-size="15" font-weight="700" letter-spacing="3.2" fill="#efe4cf">MACHINE INTELLIGENCE / FIELD NOTES</text>
+  <text x="1148" y="67" text-anchor="end" class="mono" font-size="13" letter-spacing="2" fill="#efe4cf">ISSUE 03 · TAIPEI 2026</text>
+
+  <!-- editorial headline -->
+  <text x="58" y="137" class="mono" font-size="13" font-weight="700" letter-spacing="2.4" fill="#216d67">JESS CHEN / RYOTESS</text>
+  <text x="54" y="230" class="sans" font-size="88" font-weight="800" letter-spacing="-3" fill="#1a2521">BUILDING</text>
+  <text x="54" y="310" class="serif" font-size="82" font-weight="700" font-style="italic" letter-spacing="-2" fill="#c4472d">useful AI.</text>
+  <line x1="58" y1="338" x2="711" y2="338" stroke="#1a2521" stroke-width="2" />
+  <text x="58" y="373" class="sans" font-size="17" font-weight="700" letter-spacing="1.8" fill="#1a2521">MACHINE LEARNING ENGINEER / APPLIED AI</text>
+  <text x="58" y="405" class="mono" font-size="13" letter-spacing="1.7" fill="#66695f">PRODUCTION LLM AGENTS · SEARCH · RECOMMENDER SYSTEMS</text>
+
+  <!-- central editorial rule -->
+  <line x1="760" y1="112" x2="760" y2="416" stroke="#1a2521" stroke-width="1.5" />
+  <text x="743" y="416" transform="rotate(-90 743 416)" class="mono" font-size="11" letter-spacing="2" fill="#77786d">SYSTEM STUDIES / 01—03</text>
+
+  <!-- constructivist systems diagram -->
+  <rect x="888" y="132" width="210" height="218" fill="#d4a43a" />
+  <circle cx="1046" cy="184" r="82" fill="#c4472d" />
+  <circle cx="982" cy="247" r="112" fill="#216d67" />
+  <rect x="854" y="135" width="256" height="224" fill="url(#half-tone)" opacity="0.72" />
+  <rect x="870" y="135" width="224" height="224" fill="url(#fine-grid)" clip-path="url(#teal-disc)" />
+
+  <g fill="none" stroke="#efe4cf" stroke-width="1.5" opacity="0.92">
+    <circle cx="982" cy="247" r="68" />
+    <circle cx="982" cy="247" r="32" />
+    <path d="M870 247H1094M982 135V359" />
+    <path d="M914 179L1050 315M1050 179L914 315" opacity="0.55" />
+  </g>
+
+  <g fill="#efe4cf">
+    <circle cx="982" cy="179" r="6" />
+    <circle cx="1048" cy="247" r="6" />
+    <circle cx="982" cy="315" r="6" />
+    <circle cx="914" cy="247" r="6" />
+    <circle cx="982" cy="247" r="8" />
+  </g>
+
+  <g class="mono" font-size="11" font-weight="700" letter-spacing="1.4" fill="#1a2521">
+    <text x="810" y="126">01 / AGENTS</text>
+    <text x="810" y="384">02 / SEARCH</text>
+    <text x="1018" y="384">03 / RECS</text>
+  </g>
+
+  <!-- registration marks -->
+  <g stroke="#1a2521" stroke-width="1.2" fill="none">
+    <path d="M36 112H58M47 101V123" />
+    <path d="M1142 112H1164M1153 101V123" />
+    <circle cx="47" cy="112" r="4" />
+    <circle cx="1153" cy="112" r="4" />
+  </g>
+
+  <!-- subtle paper grain -->
+  <rect width="1200" height="460" filter="url(#paper)" opacity="0.11" pointer-events="none" />
+</svg>
