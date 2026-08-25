@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Ryotess — Machine Learning Engineer in Taipei</title>
+  <desc id="desc">I build AI systems that turn messy real-world problems into useful products. My background spans machine learning, sustainability, and travel technology.</desc>
+
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#75bdb1" stroke-width="1" opacity="0.07" />
+    </pattern>
+    <filter id="grain" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.72" numOctaves="3" seed="18" result="noise" />
+      <feColorMatrix in="noise" type="matrix" values="0 0 0 0 0.20  0 0 0 0 0.25  0 0 0 0 0.22  0 0 0 0.12 0" />
+    </filter>
+    <style>
+      .sans { font-family: "Arial Narrow", "Helvetica Neue", Arial, sans-serif; }
+      .serif { font-family: Georgia, "Times New Roman", serif; }
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="560" fill="#090d0c" />
+  <rect x="16" y="16" width="1168" height="528" fill="#0f1513" stroke="#35413b" stroke-width="2" />
+  <rect x="16" y="16" width="1168" height="528" fill="url(#grid)" />
+
+  <text x="52" y="57" class="mono" font-size="16" font-weight="700" letter-spacing="2.2" fill="#929a92">PROFILE</text>
+  <line x1="16" y1="78" x2="1184" y2="78" stroke="#35413b" stroke-width="2" />
+
+  <text x="70" y="131" class="mono" font-size="17" font-weight="700" letter-spacing="2.5" fill="#ff5a36">MACHINE LEARNING ENGINEER · TAIPEI, TAIWAN</text>
+
+  <text x="68" y="235" class="sans" font-size="96" font-weight="700" letter-spacing="-4" fill="#e8e1d3">HI, I'M</text>
+  <text x="68" y="344" class="serif" font-size="112" font-weight="700" font-style="italic" letter-spacing="-4" fill="#ff5a36">Ryotess.</text>
+
+  <line x1="70" y1="378" x2="1002" y2="378" stroke="#35413b" stroke-width="2" />
+  <text x="70" y="419" class="sans" font-size="23" font-weight="700" fill="#e8e1d3">I build AI systems that turn messy, real-world problems into useful products.</text>
+  <text x="70" y="454" class="sans" font-size="23" font-weight="700" fill="#e8e1d3">My background spans machine learning, sustainability, and travel technology.</text>
+
+  <line x1="16" y1="482" x2="1184" y2="482" stroke="#35413b" stroke-width="2" />
+  <line x1="405" y1="482" x2="405" y2="544" stroke="#35413b" stroke-width="2" />
+  <line x1="795" y1="482" x2="795" y2="544" stroke="#35413b" stroke-width="2" />
+
+  <g class="mono" font-size="16" font-weight="700" letter-spacing="1.6" fill="#929a92" text-anchor="middle">
+    <text x="210" y="520">AI AGENTS</text>
+    <text x="600" y="520">SEARCH &amp; RECOMMENDATION</text>
+    <text x="990" y="520">ML SYSTEMS</text>
+  </g>
+
+  <g stroke="#ff5a36" stroke-width="2" fill="none">
+    <path d="M32 96H50M41 87V105" />
+    <circle cx="41" cy="96" r="3" />
+  </g>
+
+  <rect width="1200" height="560" filter="url(#grain)" opacity="0.1" pointer-events="none" />
+</svg>
